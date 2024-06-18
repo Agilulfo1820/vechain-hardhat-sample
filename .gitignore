@@ -1,6 +1,5 @@
 /node_modules
 /typechain-types
-yarn.lock
 /artifacts
 /cache
 /coverage
