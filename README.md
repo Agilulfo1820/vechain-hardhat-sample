@@ -1,13 +1,11 @@
+[![codecov](https://codecov.io/gh/Agilulfo1820/vechain-hardhat-sample/graph/badge.svg?token=2E9NRB7XGK)](https://codecov.io/gh/Agilulfo1820/vechain-hardhat-sample)
+
 # Sample Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This is a sample project to get you started building smart contracts with Hardhat on vechain.
 
-Try running some of the following tasks:
+## Commands
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
+```
+yarn coverage
 ```
